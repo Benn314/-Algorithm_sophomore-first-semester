@@ -10,17 +10,15 @@ void Sequential_Search(int *array, int length, int e)
 
 {
 
-```c++
 for(int i=0;i<length;i++){
 
-if (e == array[i]) {
+   if (e == array[i]) {
 
 	cout << "找到元素了，在第【 " << i + 1 << " 】位" << endl;
 
 	return;
 
-}
-```
+   }
 
 }
 
