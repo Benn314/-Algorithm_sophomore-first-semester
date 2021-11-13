@@ -123,5 +123,6 @@ int main() {
 
 #### Debug_running_diagram
 
-![image-20211112201955939](C:\Users\小楷\AppData\Roaming\Typora\typora-user-images\image-20211112201955939.png)
-
+<div align=center>
+<img src="https://user-images.githubusercontent.com/70643377/141604920-2b0bd8cf-9a0c-418d-8542-ddc76661e222.png" width="80%" height="80%">
+</div>
