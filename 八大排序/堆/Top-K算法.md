@@ -109,5 +109,8 @@ int main() {
 
 #### Debug_running_diagram
 
-<img src="C:\Users\小楷\AppData\Roaming\Typora\typora-user-images\image-20211112212225307.png" alt="image-20211112212225307" style="zoom:150%;" />
 
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/70643377/141604548-5d014f60-d3ea-48c6-82a5-a8391ab8970f.png" width="80%" height="80%">
+</div>
